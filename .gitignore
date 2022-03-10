@@ -5,3 +5,5 @@
 .Rdata
 .httr-oauth
 .DS_Store
+sql_ebac.ipynb
+sql_ebac.qmd
